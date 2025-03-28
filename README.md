@@ -1,7 +1,7 @@
 ﻿# Youtube-buttons and more!
 
 ## Introduction
-Hello! I'm Kulsoom, an aspiring software developer in the world of tech. While I'm still learning the ropes, I wanted to dive in and create something was interactive and fun. This project is something I tried out a while ago when I was just starting out and wanted to begin with something small yet exciting!
+Hello! I'm Kulsoom, an aspiring software developer in the world of tech. While I'm still learning the ropes, I wanted to dive in and create something that was interactive and fun. This project is something I tried out a while ago when I was just starting out and wanted to begin with something small yet exciting!
 
 I built these buttons and the amazon excersise as a way to learn HTML and CSS, and to challenge myself with a simple yet practical web design task. I find it incredibly rewarding to see how even small pieces of code can come together to create something functional!
 
